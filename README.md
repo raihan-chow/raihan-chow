@@ -28,7 +28,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="VueJS" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="50" />
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="Jquery" height="50" /> 
 </div>
 
