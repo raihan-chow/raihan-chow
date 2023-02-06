@@ -1,13 +1,13 @@
-### <div align="center">I'm uts58, a full-time python developer and your go to data guy! 👨‍💻</div>  
+### <div align="center">I'm Raihan Chowdhury, a full-time php laravel developer and full-stack guy! 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Binance-Trading-Bot](https://github.com/uts58/Binance-Trading-Bot)  
+- 🔭 I’m currently working on various project of Banglalink telco 
   
 
-- 🌱 I’m currently learning Node.js and React  
+- 🌱 I’m currently learning Java and React  
   
 
-- ❓ Ask me about anything related to python and related technologies  
+- ❓ Ask me about anything related to php and related technologies  
   
 
 - ⚡ Fun fact: I gave up coffee 🤦  
@@ -64,19 +64,19 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/uts58" target="_blank">
+<a href="https://github.com/raihan-chow" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/uts58" target="_blank">
+<a href="https://www.linkedin.com/in/raihan-chowdhury-57032057/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/uts58" target="_blank">
+<a href="https://www.linkedin.com/in/raihan-chowdhury-57032057/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/uts58" target="_blank">
+<a href="https://www.facebook.com/raihan.chowdhury.376" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_uts58" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
