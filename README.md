@@ -57,7 +57,7 @@
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="AWS" height="50" /> 
-<img style="margin: 10px" src="https://consent.trustarc.com/v2/asset/20:55:23.714y33gof_DO_Logo-Blue.png" alt="Digital Ocean" height="40" /> 
+<img style="margin: 10px" src="https://consent.trustarc.com/v2/asset/20:55:23.714y33gof_DO_Logo-Blue.png" alt="Digital Ocean" height="30" /> 
 </div>
 
 </td></tr></table>  
