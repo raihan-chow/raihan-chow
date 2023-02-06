@@ -26,7 +26,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="VueJS" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="50" />
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="Jquery" height="50" /> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,7 +56,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="AWS" height="50" /> 
+<img style="margin: 10px" src="https://consent.trustarc.com/v2/asset/20:55:23.714y33gof_DO_Logo-Blue.png" alt="Digital Ocean" height="50" /> 
 </div>
 
 </td></tr></table>  
