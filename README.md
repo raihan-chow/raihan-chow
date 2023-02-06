@@ -36,11 +36,10 @@
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/902a8a38f1e277eb27d2a10ab95a3d524a6ea22f/topics/oracle-database/oracle-database.png" alt="Oracle" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
